@@ -1,7 +1,7 @@
 {
-  "name": "@alannxd/baileys",
+  "name": "@doraid/baileys",
   "type": "module",
-  "version": "6.1.4",
+  "version": "1.0.0",
   "description": "WhatsApp API Modification",
   "keywords": [
     "whatsapp",
@@ -11,15 +11,15 @@
     "whatsapp api",
     "whatsapp web",
     "botwa",
-    "Holow",
-    "AlannXD"
+    "Cyberdora",
+    "Dora"
   ],
-  "homepage": "Alann Winter's",
+  "homepage": "Cyber Dora'id",
   "repository": {
-    "url": "https://t.me/alannxd"
+    "url": "https://t.me/doraid"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Cyber Dora",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
